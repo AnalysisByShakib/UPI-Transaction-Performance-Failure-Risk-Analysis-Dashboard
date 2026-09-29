@@ -35,6 +35,20 @@ The objective of this project is to build an interactive Excel dashboard to anal
 The dashboard is intended to help business improve transaction success ,understand customer preferences, optimize payment operations and strengthen fraud & risk monitoring.
 
 ## Key Features & Insights
+- The dashboard Transaction Performance Analysis tracks important KPIs such as:
+- Total Transactions
+- Total Transaction Value
+- Total Cashback
+- Success Rate
+- Suspected Fraud Rate 
+
+ The dashboard Failure & Risk Analysis tracks important KPIs such as:
+ - Total Failed Transactions
+ - Failure Rate
+ - Average Risk Score
+ - Success Rate
+ - Suspected Fraud Rate 
+
 
 ## Tech Stack
 - Microsoft Excel
