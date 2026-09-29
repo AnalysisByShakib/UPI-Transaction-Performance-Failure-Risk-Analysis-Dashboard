@@ -37,11 +37,15 @@ The dashboard is intended to help business improve transaction success ,understa
 ## Key Features & Insights
 
 ## Tech Stack
-- 🗄️ SQL Server — Data querying, aggregation, and analysis
-- 📊 Power BI — Interactive dashboard and data visualization
-- 🧮 DAX — KPI calculations and analytical measures
-- 🔄 Power Query — Data cleaning and transformation
-- 📈 Data Visualization & Business Intelligence
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas
+- Slicers
+- Data Transformation
+- Data Visualization
+
 
 ## Data Source 
 
