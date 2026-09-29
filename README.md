@@ -35,6 +35,7 @@ The objective of this project is to build an interactive Excel dashboard to anal
 The dashboard is intended to help business improve transaction success ,understand customer preferences, optimize payment operations and strengthen fraud & risk monitoring.
 
 ## Key Features & Insights
+📌 Key KPIs
 - The dashboard Transaction Performance Analysis tracks important KPIs such as:
 - Total Transactions
 - Total Transaction Value
